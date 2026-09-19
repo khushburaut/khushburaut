@@ -14,12 +14,6 @@ Passionate about building web applications, analyzing data, and continuously lea
 
 - 🌱 I’m currently learning **React.js, JavaScript & Data Analytics**
 
-- 📊 I’m interested in **Data Analytics, Data Visualization & AI**
-
-- 💻 I’m currently practicing **DSA & Problem Solving**
-
-- 📈 I enjoy creating interactive dashboards using **Power BI & Excel**
-
 - 📫 How to reach me **LinkedIn**
 
 - 👩‍💻 All of my projects are available on **GitHub**
