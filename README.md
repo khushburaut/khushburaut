@@ -14,7 +14,7 @@ Passionate about building web applications, analyzing data, and continuously lea
 
 - 🌱 I’m currently learning **React.js, JavaScript & Data Analytics**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me on **LinkedIn**
 
 - 👩‍💻 All of my projects are available on **GitHub**
 
